@@ -1,0 +1,6 @@
+S20240902S0007_002_blue_normrv.xyz
+S20240902S0007_002_red_normrv.xyz
+S20240902S0008_002_blue_normrv.xyz
+S20240902S0008_002_red_normrv.xyz
+S20240902S0009_002_blue_normrv.xyz
+S20240902S0009_002_red_normrv.xyz
