@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 import matplotlib.colors as colors
 from scipy import stats
 import copy
-import dlnpyutils.utils as dln
+import apogee.dlnpyutils.utils as dln
 
 # Ignore these warnings, it's a bug
 warnings.filterwarnings("ignore", message="numpy.dtype size changed")

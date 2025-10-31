@@ -19,13 +19,11 @@ from astropy.coordinates import SkyCoord, EarthLocation
 #import thecannon as tc
 #from dlnpyutils import utils as dln, bindata
 import copy
-from . import utils
-from .lsf import GaussianLsf, GaussHermiteLsf
+from apogee.doppler import utils
+from apogee.doppler.lsf import GaussianLsf, GaussHermiteLsf
 
 # TheCannon and dlnpyutils path
 import sys
-# sys.path.insert(0, '../FIXER_1/apogee/build/lib/')
-# import thecannon as tc
 from apogee.dlnpyutils import utils as dln, bindata
 #
 

@@ -24,8 +24,6 @@ from . import utils
 
 # TheCannon and dlnpyutils path
 import sys
-# sys.path.insert(0, '../FIXER_1/apogee/build/lib/')
-# import thecannon as tc
 from apogee.dlnpyutils import utils as dln, bindata
 #
 

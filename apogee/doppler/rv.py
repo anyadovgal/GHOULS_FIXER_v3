@@ -38,9 +38,7 @@ import matplotlib.pyplot as plt
 from matplotlib.legend import Legend
 import pdb
 
-# TheCannon and dlnpyutils path
-# sys.path.insert(0, '../FIXER_1/apogee/build/lib/')
-# import thecannon as tc ## AD 25-10-31 DONT NEED
+
 from apogee.dlnpyutils import utils as dln, bindata # AD 25-10-31 NEED
 #
 

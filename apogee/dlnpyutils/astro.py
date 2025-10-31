@@ -30,7 +30,7 @@ from astropy.utils.exceptions import AstropyWarning
 #from scipy.signal import convolve2d
 #from scipy.ndimage.filters import convolve
 #import astropy.stats
-from . import utils
+from apogee.dlnpyutils import utils
 
 
 # Ignore these warnings, it's a bug

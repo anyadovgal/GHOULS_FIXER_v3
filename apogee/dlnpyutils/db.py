@@ -1,6 +1,6 @@
 #!/usr/bin/env python                                                                                                                                                   
 import numpy as np
-from dlnpyutils import utils as dln
+from apogee.dlnpyutils import utils as dln
 import time
 import sqlite3
 

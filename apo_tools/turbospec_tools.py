@@ -3,11 +3,7 @@ import subprocess
 import numpy as np
 import sys
 import sys
-# sys.path.insert(0, '../FIXER_1/')
-# from apo_tools.spec_tools import Spectrum
-from .spec_tools import Spectrum
-
-
+from apo_tools.spec_tools import Spectrum
 
 class SpectrumTS(Spectrum):
     def __init__(self, filepath, normed=True):

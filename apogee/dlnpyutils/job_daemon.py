@@ -18,7 +18,7 @@ import time
 import subprocess
 #import logging
 import tempfile
-from . import utils as dln
+from apogee.dlnpyutils import utils as dln
 
 # Ignore these warnings, it's a bug
 warnings.filterwarnings("ignore", message="numpy.dtype size changed")

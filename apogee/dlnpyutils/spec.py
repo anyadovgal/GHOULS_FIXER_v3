@@ -8,7 +8,7 @@ from astropy.io import fits
 from scipy import ndimage
 from scipy.interpolate import interp1d
 from scipy.special import wofz
-from . import utils
+from apogee.dlnpyutils import utils
 
 
 def trace(im,yestimate=None,yorder=2,sigorder=4,step=10):

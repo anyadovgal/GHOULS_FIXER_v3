@@ -4,7 +4,7 @@ import numpy as np
 from six import callable
 from warnings import filterwarnings
 from collections import namedtuple
-from . import utils as dln
+from apogee.dlnpyutils import utils as dln
 
 __all__ = ['binned_statistic',
            'binned_statistic_2d',
